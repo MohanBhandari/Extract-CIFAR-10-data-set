@@ -1,1 +1,1 @@
-#Extract CIFAR 10 data set
+Extract CIFAR 10 data set
